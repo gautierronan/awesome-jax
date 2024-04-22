@@ -9,13 +9,22 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 
 ## Contents
 
-- [Libraries](#libraries)
-- [Models and Projects](#models-and-projects)
-- [Videos](#videos)
-- [Papers](#papers)
-- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
-- [Books](#books)
-- [Community](#community)
+- [Awesome JAX ](#awesome-jax-)
+  - [Contents](#contents)
+  - [Libraries](#libraries)
+    - [New Libraries](#new-libraries)
+  - [Models and Projects](#models-and-projects)
+    - [JAX](#jax)
+    - [Flax](#flax)
+    - [Haiku](#haiku)
+    - [Trax](#trax)
+    - [NumPyro](#numpyro)
+  - [Videos](#videos)
+  - [Papers](#papers)
+  - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+  - [Books](#books)
+  - [Community](#community)
+  - [Contributing](#contributing)
 
 <a name="libraries" />
 
@@ -118,6 +127,7 @@ This section contains libraries that are well-made and useful, but have not nece
 <!--lint ignore double-link-->
 - [XLB](https://github.com/Autodesk/XLB) - A Differentiable Massively Parallel Lattice Boltzmann Library in Python for Physics-Based Machine Learning. <img src="https://img.shields.io/github/stars/Autodesk/XLB?style=social" align="center">
 <!--lint enable double-link-->
+- [dynamiqs](https://github.com/dynamiqs/dynamiqs) - High-performance and differentiable simulations of quantum systems with JAX. <img src="https://img.shields.io/github/stars/dynamiqs/dynamiqs?style=social" align="center">
 
 <a name="models-and-projects" />
 
